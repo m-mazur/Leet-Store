@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <script data-main="js/build/main.min.js" src="js/bower_components/requirejs/require.js"></script>
+    <title></title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Product number</th>
+                <th>Product name</th>
+                <th>Product price</th>
+                <th>Product quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-bind="foreach: products">
+                <td data-bind="text: ProductId"></td>
+                <td data-bind="text: ProductName"></td>
+                <td data-bind="text: ProductPrice"></td>
+                <td>0</td>
+                <td><button>Read more</button></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

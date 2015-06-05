@@ -31,7 +31,22 @@ namespace Leet_Store.Repositories
 
         public void AddNewProduct(Product product)
         {
-            
+            var sqlCmd = "INSERT INTO dbo.Products (ProductName, ProductPrice, ProductDescription) VALUES(@productName, @productPrice, @productDescription)";
+
+            try
+            {
+                this.db.Query<Product>(sqlCmd,
+                new
+                {
+                    productName = product.ProductName,
+                    productPrice = product.ProductPrice,
+                    productDescription = product.ProductDescription
+                });
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
         }
     }
 }

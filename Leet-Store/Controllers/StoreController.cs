@@ -11,10 +11,21 @@ namespace Leet_Store.Controllers
 {
     public class StoreController : ApiController
     {
-        public IEnumerable<Product> GetSingleProduct()
+        private ProductRepository productRepo;
+
+        public StoreController()
         {
-            var productRepo = new ProductRepository();
+            productRepo = new ProductRepository();
+        }
+
+        public IEnumerable<Product> GetProducts()
+        {
             return productRepo.GetAllProducts();
+        }
+
+        public void AddNewProduct(Product product)
+        {
+            productRepo.AddNewProduct(product);
         }
     }
 }

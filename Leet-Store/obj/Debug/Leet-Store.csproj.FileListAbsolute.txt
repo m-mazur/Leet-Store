@@ -59,3 +59,17 @@ C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Stor
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.dll
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.pdb
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.xml
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap-theme.css
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap-theme.min.css
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap.css
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap.min.css
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\fonts\glyphicons-halflings-regular.svg
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\js\bootstrap.js
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\js\bootstrap.min.js
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\js\npm.js
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap-theme.css.map
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\css\bootstrap.css.map
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\fonts\glyphicons-halflings-regular.eot
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\fonts\glyphicons-halflings-regular.ttf
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\fonts\glyphicons-halflings-regular.woff
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Static\style\bootstrap\fonts\glyphicons-halflings-regular.woff2

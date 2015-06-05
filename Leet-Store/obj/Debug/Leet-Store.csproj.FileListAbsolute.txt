@@ -56,3 +56,6 @@ C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Stor
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\obj\Debug\Leet-Store.csprojResolveAssemblyReference.cache
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\obj\Debug\Leet-Store.dll
 C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\obj\Debug\Leet-Store.pdb
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.dll
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.pdb
+C:\Users\Marcus Mazur\documents\visual studio 2013\Projects\Leet-Store\Leet-Store\bin\Dapper.xml
